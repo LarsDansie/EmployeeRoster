@@ -9,7 +9,7 @@ import UIKit
 
 
 protocol EmployeeTypeTableViewControllerDelegate {
-    func employeeTypeTableViewController(func employeeTypeTableViewController(_ controller: EmployeeTypeTableViewController, didSelect employeeType: EmployeeType)
+    func employeeTypeTableViewController(_ controller: EmployeeTypeTableViewController, didSelect employeeType: EmployeeType)
 }
 
 class EmployeeTypeTableViewController: UITableViewController {
